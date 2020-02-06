@@ -1,5 +1,7 @@
-import 'package:flutter/material.dart';
 import 'package:flash_chat/constants.dart';
+import 'package:flutter/material.dart';
+
+final String route = '/chat';
 
 class ChatScreen extends StatefulWidget {
   @override

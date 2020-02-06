@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+final String route = '/home';
+
 class WelcomeScreen extends StatefulWidget {
   @override
   _WelcomeScreenState createState() => _WelcomeScreenState();

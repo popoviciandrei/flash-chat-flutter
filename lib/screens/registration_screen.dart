@@ -1,3 +1,4 @@
+import 'package:flash_chat/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
 class RegistrationScreen extends StatefulWidget {
@@ -94,6 +95,17 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                 ),
               ),
             ),
+            Center(
+              child: MaterialButton(
+                onPressed: () {
+                  Navigator.pushNamed(context, LoginScreen.route);
+                },
+                child: Text(
+                  'Already Registered? Log in here!',
+                  style: TextStyle(color: Colors.lightBlueAccent),
+                ),
+              ),
+            )
           ],
         ),
       ),

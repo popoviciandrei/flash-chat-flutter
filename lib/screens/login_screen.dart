@@ -98,6 +98,19 @@ class _LoginScreenState extends State<LoginScreen> {
                 ),
               ),
             ),
+//            Center(
+//              child: MaterialButton(
+//                child: Text(
+//                  'No account? Click here to register!',
+//                  style: TextStyle(
+//                    color: Colors.blueAccent,
+//                  ),
+//                ),
+//                onPressed: () {
+//                  Navigator.pushNamed(context, RegistrationScreen.route);
+//                },
+//              ),
+//            )
           ],
         ),
       ),

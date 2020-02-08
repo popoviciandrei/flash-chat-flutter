@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385128216208",
+    "firebase_url": "https://flash-chat-67f7e.firebaseio.com",
+    "project_id": "flash-chat-67f7e",
+    "storage_bucket": "flash-chat-67f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385128216208:android:c7bf5107f6ff64459b0a15",
+        "android_client_info": {
+          "package_name": "co.uk.andreipopovici.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385128216208-q4u03468mob7ph5l0pfj12cavmqpl4et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5uoKhPR5Oea7mdmIQLO6wXqe7sAlBEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385128216208-q4u03468mob7ph5l0pfj12cavmqpl4et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

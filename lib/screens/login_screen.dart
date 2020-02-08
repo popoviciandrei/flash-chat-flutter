@@ -76,6 +76,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     }
                     setState(() => showSpinner = false);
                   } catch (e) {
+                    setState(() => showSpinner = false);
                     print(e);
                   }
                 },
